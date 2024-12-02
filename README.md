@@ -1,4 +1,4 @@
-# quiz application
+# Quiz Application
 
 This is a simple quiz application developed using Java and JavaFX. MySQL is used as the database to store the application data.  
 
