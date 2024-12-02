@@ -14,5 +14,5 @@ To participate in the quiz, the user must first register and then log in to the 
 **Login page**
 ![image alt](https://github.com/Habib7892/quiz-application/blob/381239ee19e232f44779e243b6e155cfdd51c07f/Login%20page.png)
 
-**Quiz application**
-![image alt]()
+**Quizzes page**
+![image alt](https://github.com/Habib7892/quiz-application/blob/82c5a8f3413b806515a6eb7640466d39be105c72/Quiz.png)
