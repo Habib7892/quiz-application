@@ -9,4 +9,4 @@ The database contains several tables, including those for quiz topics, users, an
 To participate in the quiz, the user must first register and then log in to the application. Once logged in, the user can access and take the quiz.
 
 **Register page**
-![image alt]()
+![image alt](Signup page.png)
